@@ -1,0 +1,272 @@
+[33mcommit 1660578dacb58e0187a4df1fd2baf08ae335a32d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Pranali-5 <malkarpg@gmail.com>
+Date:   Sat Aug 28 22:29:55 2021 +0530
+
+    alert
+
+[33mcommit 92be652df523305fe1f2383e596e1d8deb5f06e7[m
+Author: Ankit Kumar <ankitkumar3443@gmail.com>
+Date:   Sat Aug 28 19:12:49 2021 +0530
+
+    Cloud db setup
+
+[33mcommit 646abf83d92ab5fae572af356d82377fa088c20e[m
+Author: ankitkumar3443 <60836388+ankitkumar3443@users.noreply.github.com>
+Date:   Sat Aug 28 18:18:56 2021 +0530
+
+    Update app.js
+
+[33mcommit 1bcbb9f801b59a3da2241e3537620101f46310e2[m
+Merge: 022e511 a4f7d01
+Author: Ankit Kumar <ankitkumar3443@gmail.com>
+Date:   Sat Aug 28 18:16:26 2021 +0530
+
+    Merge branch 'main' of https://github.com/ankitkumar3443/Llinkedin_learning
+
+[33mcommit 022e51149e219524ef7de107ddb7d59739847902[m
+Author: Ankit Kumar <ankitkumar3443@gmail.com>
+Date:   Sat Aug 28 18:16:15 2021 +0530
+
+    Dummy data tranfered to database
+
+[33mcommit a4f7d0175a7cd58b5935070c44b14eeaa3226b38[m
+Author: Mahipal Singh Haritwal <mahi98jat@gmail.com>
+Date:   Sat Aug 28 14:08:49 2021 +0530
+
+    comment prevent in checkout
+
+[33mcommit 16cf4a8967c2eddf77ec6a42b6d0c444c524ccc1[m
+Author: Mahipal Singh Haritwal <mahi98jat@gmail.com>
+Date:   Sat Aug 28 14:01:10 2021 +0530
+
+    adding checkout updation
+
+[33mcommit 6299bcf7b4acc3943a522ea2e67f153e25a45def[m
+Author: Mahipal Singh Haritwal <59139299+mahi98jat@users.noreply.github.com>
+Date:   Sat Aug 28 12:03:39 2021 +0530
+
+    model for payment page
+
+[33mcommit 8f7ef52e1abbb690335ceca180631f8d31064059[m
+Merge: 7ebafa7 df74bbb
+Author: ankitkumar3443 <60836388+ankitkumar3443@users.noreply.github.com>
+Date:   Sat Aug 28 09:25:28 2021 +0530
+
+    Merge pull request #2 from Pranali-5/main
+    
+    Linkedin Learning
+
+[33mcommit df74bbbef312b8228ac4039f28ff17650d33e9bb[m
+Author: Pranali Malkar <71957344+Pranali-5@users.noreply.github.com>
+Date:   Sat Aug 28 00:23:39 2021 +0530
+
+    Delete signUpPage directory
+
+[33mcommit 5ab171c1f2a0d0dc5914a8806e6988337c137d5a[m
+Author: Pranali Malkar <71957344+Pranali-5@users.noreply.github.com>
+Date:   Sat Aug 28 00:23:29 2021 +0530
+
+    Delete scripts directory
+
+[33mcommit 3aa64aace455ae88a0d4539c3c10d9faa4fd16f3[m
+Author: Pranali Malkar <71957344+Pranali-5@users.noreply.github.com>
+Date:   Sat Aug 28 00:23:18 2021 +0530
+
+    Delete styles directory
+
+[33mcommit d3af4fc0bc3de35b253e44b67d0695adbd550b1c[m
+Author: Pranali Malkar <71957344+Pranali-5@users.noreply.github.com>
+Date:   Sat Aug 28 00:22:49 2021 +0530
+
+    Delete homeSection Footer directory
+
+[33mcommit 80f0115b91ed8a1d33cb1f5dc755f8e2c55f84fb[m
+Author: Pranali Malkar <71957344+Pranali-5@users.noreply.github.com>
+Date:   Sat Aug 28 00:22:14 2021 +0530
+
+    Delete ImageBase directory
+
+[33mcommit df1cf369cf99c723b3b351d5430b1f13bc8aedee[m
+Author: Pranali Malkar <71957344+Pranali-5@users.noreply.github.com>
+Date:   Sat Aug 28 00:22:00 2021 +0530
+
+    Delete HTML directory
+
+[33mcommit 48f16ed04c73fc400a8178541c3f12ef9e2649b3[m
+Author: Pranali-5 <malkarpg@gmail.com>
+Date:   Sat Aug 28 00:21:09 2021 +0530
+
+    gitignore
+
+[33mcommit cb10ef4a5aaa7980de88f7c2f2b5de2f2c39d6f2[m
+Author: Pranali-5 <malkarpg@gmail.com>
+Date:   Sat Aug 28 00:20:02 2021 +0530
+
+    Lynda Project
+
+[33mcommit 7ebafa796a0f0d261752e33072a6e8ef78106cba[m
+Merge: e49a276 ed3bd94
+Author: ankitkumar3443 <60836388+ankitkumar3443@users.noreply.github.com>
+Date:   Fri Aug 27 13:37:55 2021 +0530
+
+    Merge pull request #1 from Pranali-5/main
+    
+    footer and checkout page responsiveness
+
+[33mcommit ed3bd94d4b6fba196b7e833a6e667117b8d9e1ca[m
+Author: Pranali-5 <malkarpg@gmail.com>
+Date:   Fri Aug 27 13:27:23 2021 +0530
+
+    checkout page responsiveness
+
+[33mcommit b5252dd3706489782b3bb60439fb7109d6c0042d[m
+Author: Pranali-5 <malkarpg@gmail.com>
+Date:   Fri Aug 27 13:19:59 2021 +0530
+
+    footer section responsiveness
+
+[33mcommit e49a2762f00ad3673dc9031b3e64940962a87d11[m
+Author: Mahipal Singh Haritwal <mahi98jat@gmail.com>
+Date:   Fri Aug 27 11:53:15 2021 +0530
+
+    updation for responsiveness added
+
+[33mcommit 6acd3531bbf619f71e63d630cc7fb61ca1ec318d[m
+Author: Ankit Kumar <ankitkumar3443@gmail.com>
+Date:   Thu Aug 26 09:20:53 2021 +0530
+
+    Blue module is responsive now
+
+[33mcommit 0ed1d66810e517a00cf1cf18368fcd96811a80e9[m
+Author: ankitkumar3443 <60836388+ankitkumar3443@users.noreply.github.com>
+Date:   Thu Aug 26 08:14:10 2021 +0530
+
+    Update README.md
+
+[33mcommit 35a01211225e4f16e1eddcda631a4abe566a0c08[m
+Author: Ranu Ranjan <53153822+RanuRanjan@users.noreply.github.com>
+Date:   Thu Aug 19 19:40:39 2021 +0530
+
+    Update README.md
+
+[33mcommit 36821966a0d2c7cea368534a76ea1cdf8157ebf8[m
+Author: Ranu Ranjan <53153822+RanuRanjan@users.noreply.github.com>
+Date:   Thu Aug 19 19:39:23 2021 +0530
+
+    Update README.md
+    
+    some changes in  snaps
+
+[33mcommit 42faa78a3c1b98e23e4c33160452237848170288[m
+Author: Ranu Ranjan <53153822+RanuRanjan@users.noreply.github.com>
+Date:   Thu Aug 19 19:36:58 2021 +0530
+
+    Update README.md
+
+[33mcommit 08602f8e1b1485b1eb45c9c2c95b47e7a156372c[m
+Author: Ranu Ranjan <53153822+RanuRanjan@users.noreply.github.com>
+Date:   Thu Aug 19 19:34:39 2021 +0530
+
+    Update README.md
+    
+    team members added
+    tech stack added
+    snaps added of websites
+
+[33mcommit f1d99f4e736e8a39c5e984d2c4069fdaea498623[m
+Author: Ranu Ranjan <53153822+RanuRanjan@users.noreply.github.com>
+Date:   Thu Aug 19 19:23:04 2021 +0530
+
+    Update README.md
+
+[33mcommit d8a2b378b73f0a56a6a9adf89f6f893587a50635[m
+Author: Ranu Ranjan <53153822+RanuRanjan@users.noreply.github.com>
+Date:   Thu Aug 19 19:22:35 2021 +0530
+
+    Update README.md
+
+[33mcommit c1a5f4a5dabf6abf27e04d83861075186b67831c[m
+Author: Ranu Ranjan <ranuranjan25@gmail.com>
+Date:   Thu Aug 19 13:49:22 2021 +0530
+
+    all changes done suggested by vishal sir
+
+[33mcommit bb48157ec3e1b71b68c025c91517688d5e843b34[m
+Author: Ranu Ranjan <ranuranjan25@gmail.com>
+Date:   Thu Aug 19 13:24:42 2021 +0530
+
+    index change
+
+[33mcommit 44faa08f372d8cf97752247b1bce87599c210ed8[m
+Author: Ranu Ranjan <ranuranjan25@gmail.com>
+Date:   Thu Aug 19 13:19:45 2021 +0530
+
+    index change
+
+[33mcommit 133799e41d19f67ac94d38e47782094edc0028e9[m
+Author: Ranu Ranjan <ranuranjan25@gmail.com>
+Date:   Tue Aug 17 14:09:45 2021 +0530
+
+    title of the page has been Updated
+
+[33mcommit ce1424fd129f2b316ef9c0204dae1c011141d1e1[m
+Author: Ranu Ranjan <ranuranjan25@gmail.com>
+Date:   Tue Aug 17 14:01:40 2021 +0530
+
+    All files have been arrangned in manner
+
+[33mcommit f7ad69be8cbe1206b30f9e54833c3d609dce18d4[m
+Merge: 066a5c6 f1a17e6
+Author: Ranu Ranjan <53153822+RanuRanjan@users.noreply.github.com>
+Date:   Tue Aug 17 13:56:37 2021 +0530
+
+    Merge pull request #15 from Pranali-5/main
+    
+    lynda.com
+
+[33mcommit f1a17e66bd5af44743b6a3d5a6d212ec7ff55268[m
+Author: Pranali Malkar <71957344+Pranali-5@users.noreply.github.com>
+Date:   Tue Aug 17 13:48:44 2021 +0530
+
+    Delete test.txt
+
+[33mcommit 1a4e0e4ae7b2d9dbd5945c458eb53b096b73a8b0[m
+Author: Pranali-5 <malkarpg@gmail.com>
+Date:   Tue Aug 17 13:20:02 2021 +0530
+
+    Lynda.com
+
+[33mcommit 2d1e66d042abf24ba839907afb7eb349b9d8216d[m
+Author: Pranali-5 <malkarpg@gmail.com>
+Date:   Tue Aug 17 13:09:19 2021 +0530
+
+    lynda.com
+
+[33mcommit c562e09d9e9914e2ab588e31a3c1fbce437fa800[m
+Merge: e6d0ee9 066a5c6
+Author: Pranali-5 <malkarpg@gmail.com>
+Date:   Tue Aug 17 13:05:44 2021 +0530
+
+    Merge branch 'main' of https://github.com/RanuRanjan/LyndaClone.github.io
+
+[33mcommit 066a5c6a7e92b017c62da8429d95923751fb9bb0[m
+Merge: 3f1b2b1 2823303
+Author: Ranu Ranjan <53153822+RanuRanjan@users.noreply.github.com>
+Date:   Sat Aug 14 14:09:34 2021 +0530
+
+    Merge pull request #14 from Pranali-5/patch-4
+    
+    sign up title
+
+[33mcommit 3f1b2b1c100c1d53b954221697b8a1bbf101926c[m
+Merge: bc2bd19 2c88a6e
+Author: Ranu Ranjan <53153822+RanuRanjan@users.noreply.github.com>
+Date:   Sat Aug 14 14:09:21 2021 +0530
+
+    Merge pull request #13 from Pranali-5/patch-3
+    
+    contact title
+
+[33mcommit 28233037436d5eab96c5aca0df48db8d5cf6600d[m
+Author: Pranali Malkar <71957344+Pranali-5@users.noreply.github.com>
+Da
